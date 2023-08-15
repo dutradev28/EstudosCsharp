@@ -1,0 +1,15 @@
+E:\Programação\UDEMY\C# BASICO\PROJETOS\entradadadosparte2\entradadadosparte2\bin\Debug\net7.0\entradadadosparte2.exe
+E:\Programação\UDEMY\C# BASICO\PROJETOS\entradadadosparte2\entradadadosparte2\bin\Debug\net7.0\entradadadosparte2.deps.json
+E:\Programação\UDEMY\C# BASICO\PROJETOS\entradadadosparte2\entradadadosparte2\bin\Debug\net7.0\entradadadosparte2.runtimeconfig.json
+E:\Programação\UDEMY\C# BASICO\PROJETOS\entradadadosparte2\entradadadosparte2\bin\Debug\net7.0\entradadadosparte2.dll
+E:\Programação\UDEMY\C# BASICO\PROJETOS\entradadadosparte2\entradadadosparte2\bin\Debug\net7.0\entradadadosparte2.pdb
+E:\Programação\UDEMY\C# BASICO\PROJETOS\entradadadosparte2\entradadadosparte2\obj\Debug\net7.0\entradadadosparte2.csproj.AssemblyReference.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\entradadadosparte2\entradadadosparte2\obj\Debug\net7.0\entradadadosparte2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\UDEMY\C# BASICO\PROJETOS\entradadadosparte2\entradadadosparte2\obj\Debug\net7.0\entradadadosparte2.AssemblyInfoInputs.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\entradadadosparte2\entradadadosparte2\obj\Debug\net7.0\entradadadosparte2.AssemblyInfo.cs
+E:\Programação\UDEMY\C# BASICO\PROJETOS\entradadadosparte2\entradadadosparte2\obj\Debug\net7.0\entradadadosparte2.csproj.CoreCompileInputs.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\entradadadosparte2\entradadadosparte2\obj\Debug\net7.0\entradadadosparte2.dll
+E:\Programação\UDEMY\C# BASICO\PROJETOS\entradadadosparte2\entradadadosparte2\obj\Debug\net7.0\refint\entradadadosparte2.dll
+E:\Programação\UDEMY\C# BASICO\PROJETOS\entradadadosparte2\entradadadosparte2\obj\Debug\net7.0\entradadadosparte2.pdb
+E:\Programação\UDEMY\C# BASICO\PROJETOS\entradadadosparte2\entradadadosparte2\obj\Debug\net7.0\entradadadosparte2.genruntimeconfig.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\entradadadosparte2\entradadadosparte2\obj\Debug\net7.0\ref\entradadadosparte2.dll

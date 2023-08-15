@@ -1,0 +1,15 @@
+E:\Programação\UDEMY\C# BASICO\PROJETOS\testes-processamento\testes-processamento\bin\Debug\net7.0\testes-processamento.exe
+E:\Programação\UDEMY\C# BASICO\PROJETOS\testes-processamento\testes-processamento\bin\Debug\net7.0\testes-processamento.deps.json
+E:\Programação\UDEMY\C# BASICO\PROJETOS\testes-processamento\testes-processamento\bin\Debug\net7.0\testes-processamento.runtimeconfig.json
+E:\Programação\UDEMY\C# BASICO\PROJETOS\testes-processamento\testes-processamento\bin\Debug\net7.0\testes-processamento.dll
+E:\Programação\UDEMY\C# BASICO\PROJETOS\testes-processamento\testes-processamento\bin\Debug\net7.0\testes-processamento.pdb
+E:\Programação\UDEMY\C# BASICO\PROJETOS\testes-processamento\testes-processamento\obj\Debug\net7.0\testes-processamento.csproj.AssemblyReference.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\testes-processamento\testes-processamento\obj\Debug\net7.0\testes-processamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\UDEMY\C# BASICO\PROJETOS\testes-processamento\testes-processamento\obj\Debug\net7.0\testes-processamento.AssemblyInfoInputs.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\testes-processamento\testes-processamento\obj\Debug\net7.0\testes-processamento.AssemblyInfo.cs
+E:\Programação\UDEMY\C# BASICO\PROJETOS\testes-processamento\testes-processamento\obj\Debug\net7.0\testes-processamento.csproj.CoreCompileInputs.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\testes-processamento\testes-processamento\obj\Debug\net7.0\testes-processamento.dll
+E:\Programação\UDEMY\C# BASICO\PROJETOS\testes-processamento\testes-processamento\obj\Debug\net7.0\refint\testes-processamento.dll
+E:\Programação\UDEMY\C# BASICO\PROJETOS\testes-processamento\testes-processamento\obj\Debug\net7.0\testes-processamento.pdb
+E:\Programação\UDEMY\C# BASICO\PROJETOS\testes-processamento\testes-processamento\obj\Debug\net7.0\testes-processamento.genruntimeconfig.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\testes-processamento\testes-processamento\obj\Debug\net7.0\ref\testes-processamento.dll

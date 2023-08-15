@@ -1,0 +1,15 @@
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exercicio URIonlinejudge1\exercicio URIonlinejudge1\obj\Debug\net7.0\exercicio URIonlinejudge1.csproj.AssemblyReference.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exercicio URIonlinejudge1\exercicio URIonlinejudge1\obj\Debug\net7.0\exercicio URIonlinejudge1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exercicio URIonlinejudge1\exercicio URIonlinejudge1\obj\Debug\net7.0\exercicio URIonlinejudge1.AssemblyInfoInputs.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exercicio URIonlinejudge1\exercicio URIonlinejudge1\obj\Debug\net7.0\exercicio URIonlinejudge1.AssemblyInfo.cs
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exercicio URIonlinejudge1\exercicio URIonlinejudge1\obj\Debug\net7.0\exercicio URIonlinejudge1.csproj.CoreCompileInputs.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exercicio URIonlinejudge1\exercicio URIonlinejudge1\bin\Debug\net7.0\exercicio URIonlinejudge1.exe
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exercicio URIonlinejudge1\exercicio URIonlinejudge1\bin\Debug\net7.0\exercicio URIonlinejudge1.deps.json
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exercicio URIonlinejudge1\exercicio URIonlinejudge1\bin\Debug\net7.0\exercicio URIonlinejudge1.runtimeconfig.json
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exercicio URIonlinejudge1\exercicio URIonlinejudge1\bin\Debug\net7.0\exercicio URIonlinejudge1.dll
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exercicio URIonlinejudge1\exercicio URIonlinejudge1\bin\Debug\net7.0\exercicio URIonlinejudge1.pdb
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exercicio URIonlinejudge1\exercicio URIonlinejudge1\obj\Debug\net7.0\exercicio URIonlinejudge1.dll
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exercicio URIonlinejudge1\exercicio URIonlinejudge1\obj\Debug\net7.0\refint\exercicio URIonlinejudge1.dll
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exercicio URIonlinejudge1\exercicio URIonlinejudge1\obj\Debug\net7.0\exercicio URIonlinejudge1.pdb
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exercicio URIonlinejudge1\exercicio URIonlinejudge1\obj\Debug\net7.0\exercicio URIonlinejudge1.genruntimeconfig.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exercicio URIonlinejudge1\exercicio URIonlinejudge1\obj\Debug\net7.0\ref\exercicio URIonlinejudge1.dll

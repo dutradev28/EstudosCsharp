@@ -1,0 +1,15 @@
+E:\Programação\UDEMY\C# BASICO\PROJETOS\uri1005\uri1005\bin\Debug\net7.0\uri1005.exe
+E:\Programação\UDEMY\C# BASICO\PROJETOS\uri1005\uri1005\bin\Debug\net7.0\uri1005.deps.json
+E:\Programação\UDEMY\C# BASICO\PROJETOS\uri1005\uri1005\bin\Debug\net7.0\uri1005.runtimeconfig.json
+E:\Programação\UDEMY\C# BASICO\PROJETOS\uri1005\uri1005\bin\Debug\net7.0\uri1005.dll
+E:\Programação\UDEMY\C# BASICO\PROJETOS\uri1005\uri1005\bin\Debug\net7.0\uri1005.pdb
+E:\Programação\UDEMY\C# BASICO\PROJETOS\uri1005\uri1005\obj\Debug\net7.0\uri1005.csproj.AssemblyReference.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\uri1005\uri1005\obj\Debug\net7.0\uri1005.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\UDEMY\C# BASICO\PROJETOS\uri1005\uri1005\obj\Debug\net7.0\uri1005.AssemblyInfoInputs.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\uri1005\uri1005\obj\Debug\net7.0\uri1005.AssemblyInfo.cs
+E:\Programação\UDEMY\C# BASICO\PROJETOS\uri1005\uri1005\obj\Debug\net7.0\uri1005.csproj.CoreCompileInputs.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\uri1005\uri1005\obj\Debug\net7.0\uri1005.dll
+E:\Programação\UDEMY\C# BASICO\PROJETOS\uri1005\uri1005\obj\Debug\net7.0\refint\uri1005.dll
+E:\Programação\UDEMY\C# BASICO\PROJETOS\uri1005\uri1005\obj\Debug\net7.0\uri1005.pdb
+E:\Programação\UDEMY\C# BASICO\PROJETOS\uri1005\uri1005\obj\Debug\net7.0\uri1005.genruntimeconfig.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\uri1005\uri1005\obj\Debug\net7.0\ref\uri1005.dll

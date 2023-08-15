@@ -1,0 +1,15 @@
+E:\Programação\UDEMY\C# BASICO\PROJETOS\Exercicio3\Exercicio3\bin\Debug\net7.0\Exercicio3.exe
+E:\Programação\UDEMY\C# BASICO\PROJETOS\Exercicio3\Exercicio3\bin\Debug\net7.0\Exercicio3.deps.json
+E:\Programação\UDEMY\C# BASICO\PROJETOS\Exercicio3\Exercicio3\bin\Debug\net7.0\Exercicio3.runtimeconfig.json
+E:\Programação\UDEMY\C# BASICO\PROJETOS\Exercicio3\Exercicio3\bin\Debug\net7.0\Exercicio3.dll
+E:\Programação\UDEMY\C# BASICO\PROJETOS\Exercicio3\Exercicio3\bin\Debug\net7.0\Exercicio3.pdb
+E:\Programação\UDEMY\C# BASICO\PROJETOS\Exercicio3\Exercicio3\obj\Debug\net7.0\Exercicio3.csproj.AssemblyReference.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\Exercicio3\Exercicio3\obj\Debug\net7.0\Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\UDEMY\C# BASICO\PROJETOS\Exercicio3\Exercicio3\obj\Debug\net7.0\Exercicio3.AssemblyInfoInputs.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\Exercicio3\Exercicio3\obj\Debug\net7.0\Exercicio3.AssemblyInfo.cs
+E:\Programação\UDEMY\C# BASICO\PROJETOS\Exercicio3\Exercicio3\obj\Debug\net7.0\Exercicio3.csproj.CoreCompileInputs.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\Exercicio3\Exercicio3\obj\Debug\net7.0\Exercicio3.dll
+E:\Programação\UDEMY\C# BASICO\PROJETOS\Exercicio3\Exercicio3\obj\Debug\net7.0\refint\Exercicio3.dll
+E:\Programação\UDEMY\C# BASICO\PROJETOS\Exercicio3\Exercicio3\obj\Debug\net7.0\Exercicio3.pdb
+E:\Programação\UDEMY\C# BASICO\PROJETOS\Exercicio3\Exercicio3\obj\Debug\net7.0\Exercicio3.genruntimeconfig.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\Exercicio3\Exercicio3\obj\Debug\net7.0\ref\Exercicio3.dll

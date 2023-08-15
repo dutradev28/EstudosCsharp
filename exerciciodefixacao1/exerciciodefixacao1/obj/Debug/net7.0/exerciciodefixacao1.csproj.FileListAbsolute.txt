@@ -1,0 +1,15 @@
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exerciciodefixacao1\exerciciodefixacao1\bin\Debug\net7.0\exerciciodefixacao1.exe
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exerciciodefixacao1\exerciciodefixacao1\bin\Debug\net7.0\exerciciodefixacao1.deps.json
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exerciciodefixacao1\exerciciodefixacao1\bin\Debug\net7.0\exerciciodefixacao1.runtimeconfig.json
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exerciciodefixacao1\exerciciodefixacao1\bin\Debug\net7.0\exerciciodefixacao1.dll
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exerciciodefixacao1\exerciciodefixacao1\bin\Debug\net7.0\exerciciodefixacao1.pdb
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exerciciodefixacao1\exerciciodefixacao1\obj\Debug\net7.0\exerciciodefixacao1.csproj.AssemblyReference.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exerciciodefixacao1\exerciciodefixacao1\obj\Debug\net7.0\exerciciodefixacao1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exerciciodefixacao1\exerciciodefixacao1\obj\Debug\net7.0\exerciciodefixacao1.AssemblyInfoInputs.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exerciciodefixacao1\exerciciodefixacao1\obj\Debug\net7.0\exerciciodefixacao1.AssemblyInfo.cs
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exerciciodefixacao1\exerciciodefixacao1\obj\Debug\net7.0\exerciciodefixacao1.csproj.CoreCompileInputs.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exerciciodefixacao1\exerciciodefixacao1\obj\Debug\net7.0\exerciciodefixacao1.dll
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exerciciodefixacao1\exerciciodefixacao1\obj\Debug\net7.0\refint\exerciciodefixacao1.dll
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exerciciodefixacao1\exerciciodefixacao1\obj\Debug\net7.0\exerciciodefixacao1.pdb
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exerciciodefixacao1\exerciciodefixacao1\obj\Debug\net7.0\exerciciodefixacao1.genruntimeconfig.cache
+E:\Programação\UDEMY\C# BASICO\PROJETOS\exerciciodefixacao1\exerciciodefixacao1\obj\Debug\net7.0\ref\exerciciodefixacao1.dll
