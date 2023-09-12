@@ -1,0 +1,14 @@
+E:\Programação New\EstudosCsharp\uri1035\uri1035\bin\Debug\net7.0\uri1035.exe
+E:\Programação New\EstudosCsharp\uri1035\uri1035\bin\Debug\net7.0\uri1035.deps.json
+E:\Programação New\EstudosCsharp\uri1035\uri1035\bin\Debug\net7.0\uri1035.runtimeconfig.json
+E:\Programação New\EstudosCsharp\uri1035\uri1035\bin\Debug\net7.0\uri1035.dll
+E:\Programação New\EstudosCsharp\uri1035\uri1035\bin\Debug\net7.0\uri1035.pdb
+E:\Programação New\EstudosCsharp\uri1035\uri1035\obj\Debug\net7.0\uri1035.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\uri1035\uri1035\obj\Debug\net7.0\uri1035.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\uri1035\uri1035\obj\Debug\net7.0\uri1035.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\uri1035\uri1035\obj\Debug\net7.0\uri1035.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\uri1035\uri1035\obj\Debug\net7.0\uri1035.dll
+E:\Programação New\EstudosCsharp\uri1035\uri1035\obj\Debug\net7.0\refint\uri1035.dll
+E:\Programação New\EstudosCsharp\uri1035\uri1035\obj\Debug\net7.0\uri1035.pdb
+E:\Programação New\EstudosCsharp\uri1035\uri1035\obj\Debug\net7.0\uri1035.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\uri1035\uri1035\obj\Debug\net7.0\ref\uri1035.dll
