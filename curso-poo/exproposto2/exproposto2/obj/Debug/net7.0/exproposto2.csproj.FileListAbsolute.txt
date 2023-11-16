@@ -1,0 +1,14 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exproposto2\exproposto2\bin\Debug\net7.0\exproposto2.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exproposto2\exproposto2\bin\Debug\net7.0\exproposto2.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exproposto2\exproposto2\bin\Debug\net7.0\exproposto2.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exproposto2\exproposto2\bin\Debug\net7.0\exproposto2.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exproposto2\exproposto2\bin\Debug\net7.0\exproposto2.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exproposto2\exproposto2\obj\Debug\net7.0\exproposto2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exproposto2\exproposto2\obj\Debug\net7.0\exproposto2.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exproposto2\exproposto2\obj\Debug\net7.0\exproposto2.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exproposto2\exproposto2\obj\Debug\net7.0\exproposto2.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exproposto2\exproposto2\obj\Debug\net7.0\exproposto2.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exproposto2\exproposto2\obj\Debug\net7.0\refint\exproposto2.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exproposto2\exproposto2\obj\Debug\net7.0\exproposto2.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exproposto2\exproposto2\obj\Debug\net7.0\exproposto2.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exproposto2\exproposto2\obj\Debug\net7.0\ref\exproposto2.dll
