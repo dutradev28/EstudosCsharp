@@ -1,0 +1,14 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\DadosEmCsharp\DadosEmCsharp\bin\Debug\net7.0\DadosEmCsharp.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\DadosEmCsharp\DadosEmCsharp\bin\Debug\net7.0\DadosEmCsharp.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\DadosEmCsharp\DadosEmCsharp\bin\Debug\net7.0\DadosEmCsharp.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\DadosEmCsharp\DadosEmCsharp\bin\Debug\net7.0\DadosEmCsharp.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\DadosEmCsharp\DadosEmCsharp\bin\Debug\net7.0\DadosEmCsharp.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\DadosEmCsharp\DadosEmCsharp\obj\Debug\net7.0\DadosEmCsharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\DadosEmCsharp\DadosEmCsharp\obj\Debug\net7.0\DadosEmCsharp.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\DadosEmCsharp\DadosEmCsharp\obj\Debug\net7.0\DadosEmCsharp.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\DadosEmCsharp\DadosEmCsharp\obj\Debug\net7.0\DadosEmCsharp.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\DadosEmCsharp\DadosEmCsharp\obj\Debug\net7.0\DadosEmCsharp.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\DadosEmCsharp\DadosEmCsharp\obj\Debug\net7.0\refint\DadosEmCsharp.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\DadosEmCsharp\DadosEmCsharp\obj\Debug\net7.0\DadosEmCsharp.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\DadosEmCsharp\DadosEmCsharp\obj\Debug\net7.0\DadosEmCsharp.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\DadosEmCsharp\DadosEmCsharp\obj\Debug\net7.0\ref\DadosEmCsharp.dll

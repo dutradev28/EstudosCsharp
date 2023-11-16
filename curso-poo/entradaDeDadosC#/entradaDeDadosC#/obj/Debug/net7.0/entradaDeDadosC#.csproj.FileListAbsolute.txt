@@ -1,0 +1,14 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\entradaDeDadosC#\entradaDeDadosC#\bin\Debug\net7.0\entradaDeDadosC#.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\entradaDeDadosC#\entradaDeDadosC#\bin\Debug\net7.0\entradaDeDadosC#.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\entradaDeDadosC#\entradaDeDadosC#\bin\Debug\net7.0\entradaDeDadosC#.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\entradaDeDadosC#\entradaDeDadosC#\bin\Debug\net7.0\entradaDeDadosC#.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\entradaDeDadosC#\entradaDeDadosC#\bin\Debug\net7.0\entradaDeDadosC#.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\entradaDeDadosC#\entradaDeDadosC#\obj\Debug\net7.0\entradaDeDadosC#.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\entradaDeDadosC#\entradaDeDadosC#\obj\Debug\net7.0\entradaDeDadosC#.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\entradaDeDadosC#\entradaDeDadosC#\obj\Debug\net7.0\entradaDeDadosC#.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\entradaDeDadosC#\entradaDeDadosC#\obj\Debug\net7.0\entradaDeDadosC#.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\entradaDeDadosC#\entradaDeDadosC#\obj\Debug\net7.0\entradaDeDadosC#.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\entradaDeDadosC#\entradaDeDadosC#\obj\Debug\net7.0\refint\entradaDeDadosC#.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\entradaDeDadosC#\entradaDeDadosC#\obj\Debug\net7.0\entradaDeDadosC#.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\entradaDeDadosC#\entradaDeDadosC#\obj\Debug\net7.0\entradaDeDadosC#.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\entradaDeDadosC#\entradaDeDadosC#\obj\Debug\net7.0\ref\entradaDeDadosC#.dll
