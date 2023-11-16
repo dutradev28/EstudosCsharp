@@ -1,0 +1,14 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exFixacao\exFixacao\bin\Debug\net7.0\exFixacao.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exFixacao\exFixacao\bin\Debug\net7.0\exFixacao.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exFixacao\exFixacao\bin\Debug\net7.0\exFixacao.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exFixacao\exFixacao\bin\Debug\net7.0\exFixacao.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exFixacao\exFixacao\bin\Debug\net7.0\exFixacao.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exFixacao\exFixacao\obj\Debug\net7.0\exFixacao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exFixacao\exFixacao\obj\Debug\net7.0\exFixacao.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exFixacao\exFixacao\obj\Debug\net7.0\exFixacao.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exFixacao\exFixacao\obj\Debug\net7.0\exFixacao.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exFixacao\exFixacao\obj\Debug\net7.0\exFixacao.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exFixacao\exFixacao\obj\Debug\net7.0\refint\exFixacao.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exFixacao\exFixacao\obj\Debug\net7.0\exFixacao.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exFixacao\exFixacao\obj\Debug\net7.0\exFixacao.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exFixacao\exFixacao\obj\Debug\net7.0\ref\exFixacao.dll
