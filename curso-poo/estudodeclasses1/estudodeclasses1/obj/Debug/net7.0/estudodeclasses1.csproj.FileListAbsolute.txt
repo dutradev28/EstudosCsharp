@@ -1,0 +1,14 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudodeclasses1\estudodeclasses1\obj\Debug\net7.0\estudodeclasses1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudodeclasses1\estudodeclasses1\obj\Debug\net7.0\estudodeclasses1.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudodeclasses1\estudodeclasses1\obj\Debug\net7.0\estudodeclasses1.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudodeclasses1\estudodeclasses1\obj\Debug\net7.0\estudodeclasses1.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudodeclasses1\estudodeclasses1\bin\Debug\net7.0\estudodeclasses1.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudodeclasses1\estudodeclasses1\bin\Debug\net7.0\estudodeclasses1.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudodeclasses1\estudodeclasses1\bin\Debug\net7.0\estudodeclasses1.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudodeclasses1\estudodeclasses1\bin\Debug\net7.0\estudodeclasses1.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudodeclasses1\estudodeclasses1\bin\Debug\net7.0\estudodeclasses1.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudodeclasses1\estudodeclasses1\obj\Debug\net7.0\estudodeclasses1.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudodeclasses1\estudodeclasses1\obj\Debug\net7.0\refint\estudodeclasses1.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudodeclasses1\estudodeclasses1\obj\Debug\net7.0\estudodeclasses1.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudodeclasses1\estudodeclasses1\obj\Debug\net7.0\estudodeclasses1.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudodeclasses1\estudodeclasses1\obj\Debug\net7.0\ref\estudodeclasses1.dll

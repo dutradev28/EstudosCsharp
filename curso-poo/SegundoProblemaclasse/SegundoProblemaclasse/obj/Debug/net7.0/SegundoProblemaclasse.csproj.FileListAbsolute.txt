@@ -1,0 +1,14 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\SegundoProblemaclasse\SegundoProblemaclasse\bin\Debug\net7.0\SegundoProblemaclasse.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\SegundoProblemaclasse\SegundoProblemaclasse\bin\Debug\net7.0\SegundoProblemaclasse.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\SegundoProblemaclasse\SegundoProblemaclasse\bin\Debug\net7.0\SegundoProblemaclasse.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\SegundoProblemaclasse\SegundoProblemaclasse\bin\Debug\net7.0\SegundoProblemaclasse.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\SegundoProblemaclasse\SegundoProblemaclasse\bin\Debug\net7.0\SegundoProblemaclasse.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\SegundoProblemaclasse\SegundoProblemaclasse\obj\Debug\net7.0\SegundoProblemaclasse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\SegundoProblemaclasse\SegundoProblemaclasse\obj\Debug\net7.0\SegundoProblemaclasse.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\SegundoProblemaclasse\SegundoProblemaclasse\obj\Debug\net7.0\SegundoProblemaclasse.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\SegundoProblemaclasse\SegundoProblemaclasse\obj\Debug\net7.0\SegundoProblemaclasse.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\SegundoProblemaclasse\SegundoProblemaclasse\obj\Debug\net7.0\SegundoProblemaclasse.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\SegundoProblemaclasse\SegundoProblemaclasse\obj\Debug\net7.0\refint\SegundoProblemaclasse.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\SegundoProblemaclasse\SegundoProblemaclasse\obj\Debug\net7.0\SegundoProblemaclasse.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\SegundoProblemaclasse\SegundoProblemaclasse\obj\Debug\net7.0\SegundoProblemaclasse.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\SegundoProblemaclasse\SegundoProblemaclasse\obj\Debug\net7.0\ref\SegundoProblemaclasse.dll
