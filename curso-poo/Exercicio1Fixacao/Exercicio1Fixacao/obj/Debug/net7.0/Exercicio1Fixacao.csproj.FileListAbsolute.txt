@@ -1,0 +1,14 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Exercicio1Fixacao\Exercicio1Fixacao\bin\Debug\net7.0\Exercicio1Fixacao.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Exercicio1Fixacao\Exercicio1Fixacao\bin\Debug\net7.0\Exercicio1Fixacao.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Exercicio1Fixacao\Exercicio1Fixacao\bin\Debug\net7.0\Exercicio1Fixacao.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Exercicio1Fixacao\Exercicio1Fixacao\bin\Debug\net7.0\Exercicio1Fixacao.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Exercicio1Fixacao\Exercicio1Fixacao\bin\Debug\net7.0\Exercicio1Fixacao.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Exercicio1Fixacao\Exercicio1Fixacao\obj\Debug\net7.0\Exercicio1Fixacao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Exercicio1Fixacao\Exercicio1Fixacao\obj\Debug\net7.0\Exercicio1Fixacao.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Exercicio1Fixacao\Exercicio1Fixacao\obj\Debug\net7.0\Exercicio1Fixacao.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Exercicio1Fixacao\Exercicio1Fixacao\obj\Debug\net7.0\Exercicio1Fixacao.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Exercicio1Fixacao\Exercicio1Fixacao\obj\Debug\net7.0\Exercicio1Fixacao.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Exercicio1Fixacao\Exercicio1Fixacao\obj\Debug\net7.0\refint\Exercicio1Fixacao.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Exercicio1Fixacao\Exercicio1Fixacao\obj\Debug\net7.0\Exercicio1Fixacao.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Exercicio1Fixacao\Exercicio1Fixacao\obj\Debug\net7.0\Exercicio1Fixacao.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Exercicio1Fixacao\Exercicio1Fixacao\obj\Debug\net7.0\ref\Exercicio1Fixacao.dll
