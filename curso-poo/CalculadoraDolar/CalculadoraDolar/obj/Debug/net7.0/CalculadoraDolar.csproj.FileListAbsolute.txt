@@ -1,0 +1,14 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\CalculadoraDolar\CalculadoraDolar\bin\Debug\net7.0\CalculadoraDolar.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\CalculadoraDolar\CalculadoraDolar\bin\Debug\net7.0\CalculadoraDolar.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\CalculadoraDolar\CalculadoraDolar\bin\Debug\net7.0\CalculadoraDolar.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\CalculadoraDolar\CalculadoraDolar\bin\Debug\net7.0\CalculadoraDolar.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\CalculadoraDolar\CalculadoraDolar\bin\Debug\net7.0\CalculadoraDolar.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\CalculadoraDolar\CalculadoraDolar\obj\Debug\net7.0\CalculadoraDolar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\CalculadoraDolar\CalculadoraDolar\obj\Debug\net7.0\CalculadoraDolar.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\CalculadoraDolar\CalculadoraDolar\obj\Debug\net7.0\CalculadoraDolar.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\CalculadoraDolar\CalculadoraDolar\obj\Debug\net7.0\CalculadoraDolar.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\CalculadoraDolar\CalculadoraDolar\obj\Debug\net7.0\CalculadoraDolar.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\CalculadoraDolar\CalculadoraDolar\obj\Debug\net7.0\refint\CalculadoraDolar.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\CalculadoraDolar\CalculadoraDolar\obj\Debug\net7.0\CalculadoraDolar.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\CalculadoraDolar\CalculadoraDolar\obj\Debug\net7.0\CalculadoraDolar.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\CalculadoraDolar\CalculadoraDolar\obj\Debug\net7.0\ref\CalculadoraDolar.dll

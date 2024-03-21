@@ -1,0 +1,14 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Course\Course\obj\Debug\net7.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Course\Course\obj\Debug\net7.0\Course.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Course\Course\obj\Debug\net7.0\Course.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Course\Course\obj\Debug\net7.0\Course.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Course\Course\bin\Debug\net7.0\Course.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Course\Course\bin\Debug\net7.0\Course.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Course\Course\bin\Debug\net7.0\Course.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Course\Course\bin\Debug\net7.0\Course.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Course\Course\bin\Debug\net7.0\Course.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Course\Course\obj\Debug\net7.0\Course.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Course\Course\obj\Debug\net7.0\refint\Course.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Course\Course\obj\Debug\net7.0\Course.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Course\Course\obj\Debug\net7.0\Course.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\Course\Course\obj\Debug\net7.0\ref\Course.dll

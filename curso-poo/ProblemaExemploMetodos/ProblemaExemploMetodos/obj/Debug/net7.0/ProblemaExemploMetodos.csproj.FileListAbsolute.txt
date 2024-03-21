@@ -1,0 +1,14 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\ProblemaExemploMetodos\ProblemaExemploMetodos\bin\Debug\net7.0\ProblemaExemploMetodos.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\ProblemaExemploMetodos\ProblemaExemploMetodos\bin\Debug\net7.0\ProblemaExemploMetodos.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\ProblemaExemploMetodos\ProblemaExemploMetodos\bin\Debug\net7.0\ProblemaExemploMetodos.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\ProblemaExemploMetodos\ProblemaExemploMetodos\bin\Debug\net7.0\ProblemaExemploMetodos.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\ProblemaExemploMetodos\ProblemaExemploMetodos\bin\Debug\net7.0\ProblemaExemploMetodos.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\ProblemaExemploMetodos\ProblemaExemploMetodos\obj\Debug\net7.0\ProblemaExemploMetodos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\ProblemaExemploMetodos\ProblemaExemploMetodos\obj\Debug\net7.0\ProblemaExemploMetodos.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\ProblemaExemploMetodos\ProblemaExemploMetodos\obj\Debug\net7.0\ProblemaExemploMetodos.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\ProblemaExemploMetodos\ProblemaExemploMetodos\obj\Debug\net7.0\ProblemaExemploMetodos.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\ProblemaExemploMetodos\ProblemaExemploMetodos\obj\Debug\net7.0\ProblemaExemploMetodos.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\ProblemaExemploMetodos\ProblemaExemploMetodos\obj\Debug\net7.0\refint\ProblemaExemploMetodos.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\ProblemaExemploMetodos\ProblemaExemploMetodos\obj\Debug\net7.0\ProblemaExemploMetodos.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\ProblemaExemploMetodos\ProblemaExemploMetodos\obj\Debug\net7.0\ProblemaExemploMetodos.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\ProblemaExemploMetodos\ProblemaExemploMetodos\obj\Debug\net7.0\ref\ProblemaExemploMetodos.dll
