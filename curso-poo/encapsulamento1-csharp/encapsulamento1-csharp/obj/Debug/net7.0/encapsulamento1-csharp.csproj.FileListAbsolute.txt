@@ -1,0 +1,14 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\encapsulamento1-csharp\encapsulamento1-csharp\bin\Debug\net7.0\encapsulamento1-csharp.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\encapsulamento1-csharp\encapsulamento1-csharp\bin\Debug\net7.0\encapsulamento1-csharp.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\encapsulamento1-csharp\encapsulamento1-csharp\bin\Debug\net7.0\encapsulamento1-csharp.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\encapsulamento1-csharp\encapsulamento1-csharp\bin\Debug\net7.0\encapsulamento1-csharp.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\encapsulamento1-csharp\encapsulamento1-csharp\bin\Debug\net7.0\encapsulamento1-csharp.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\encapsulamento1-csharp\encapsulamento1-csharp\obj\Debug\net7.0\encapsulamento1-csharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\encapsulamento1-csharp\encapsulamento1-csharp\obj\Debug\net7.0\encapsulamento1-csharp.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\encapsulamento1-csharp\encapsulamento1-csharp\obj\Debug\net7.0\encapsulamento1-csharp.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\encapsulamento1-csharp\encapsulamento1-csharp\obj\Debug\net7.0\encapsulamento1-csharp.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\encapsulamento1-csharp\encapsulamento1-csharp\obj\Debug\net7.0\encapsulamento1-csharp.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\encapsulamento1-csharp\encapsulamento1-csharp\obj\Debug\net7.0\refint\encapsulamento1-csharp.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\encapsulamento1-csharp\encapsulamento1-csharp\obj\Debug\net7.0\encapsulamento1-csharp.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\encapsulamento1-csharp\encapsulamento1-csharp\obj\Debug\net7.0\encapsulamento1-csharp.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\encapsulamento1-csharp\encapsulamento1-csharp\obj\Debug\net7.0\ref\encapsulamento1-csharp.dll
