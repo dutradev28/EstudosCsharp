@@ -1,0 +1,15 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoVetores1\estudoVetores1\bin\Debug\net8.0\estudoVetores1.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoVetores1\estudoVetores1\bin\Debug\net8.0\estudoVetores1.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoVetores1\estudoVetores1\bin\Debug\net8.0\estudoVetores1.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoVetores1\estudoVetores1\bin\Debug\net8.0\estudoVetores1.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoVetores1\estudoVetores1\bin\Debug\net8.0\estudoVetores1.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoVetores1\estudoVetores1\obj\Debug\net8.0\estudoVetores1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoVetores1\estudoVetores1\obj\Debug\net8.0\estudoVetores1.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoVetores1\estudoVetores1\obj\Debug\net8.0\estudoVetores1.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoVetores1\estudoVetores1\obj\Debug\net8.0\estudoVetores1.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoVetores1\estudoVetores1\obj\Debug\net8.0\estudoVetores1.sourcelink.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoVetores1\estudoVetores1\obj\Debug\net8.0\estudoVetores1.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoVetores1\estudoVetores1\obj\Debug\net8.0\refint\estudoVetores1.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoVetores1\estudoVetores1\obj\Debug\net8.0\estudoVetores1.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoVetores1\estudoVetores1\obj\Debug\net8.0\estudoVetores1.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoVetores1\estudoVetores1\obj\Debug\net8.0\ref\estudoVetores1.dll
