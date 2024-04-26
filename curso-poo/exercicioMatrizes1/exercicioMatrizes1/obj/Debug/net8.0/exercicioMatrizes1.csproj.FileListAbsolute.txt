@@ -1,0 +1,15 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioMatrizes1\exercicioMatrizes1\obj\Debug\net8.0\exercicioMatrizes1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioMatrizes1\exercicioMatrizes1\obj\Debug\net8.0\exercicioMatrizes1.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioMatrizes1\exercicioMatrizes1\obj\Debug\net8.0\exercicioMatrizes1.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioMatrizes1\exercicioMatrizes1\obj\Debug\net8.0\exercicioMatrizes1.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioMatrizes1\exercicioMatrizes1\obj\Debug\net8.0\exercicioMatrizes1.sourcelink.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioMatrizes1\exercicioMatrizes1\bin\Debug\net8.0\exercicioMatrizes1.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioMatrizes1\exercicioMatrizes1\bin\Debug\net8.0\exercicioMatrizes1.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioMatrizes1\exercicioMatrizes1\bin\Debug\net8.0\exercicioMatrizes1.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioMatrizes1\exercicioMatrizes1\bin\Debug\net8.0\exercicioMatrizes1.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioMatrizes1\exercicioMatrizes1\bin\Debug\net8.0\exercicioMatrizes1.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioMatrizes1\exercicioMatrizes1\obj\Debug\net8.0\exercicioMatrizes1.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioMatrizes1\exercicioMatrizes1\obj\Debug\net8.0\refint\exercicioMatrizes1.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioMatrizes1\exercicioMatrizes1\obj\Debug\net8.0\exercicioMatrizes1.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioMatrizes1\exercicioMatrizes1\obj\Debug\net8.0\exercicioMatrizes1.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioMatrizes1\exercicioMatrizes1\obj\Debug\net8.0\ref\exercicioMatrizes1.dll
