@@ -1,0 +1,15 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioLista1\exercicioLista1\obj\Debug\net8.0\exercicioLista1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioLista1\exercicioLista1\obj\Debug\net8.0\exercicioLista1.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioLista1\exercicioLista1\obj\Debug\net8.0\exercicioLista1.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioLista1\exercicioLista1\obj\Debug\net8.0\exercicioLista1.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioLista1\exercicioLista1\obj\Debug\net8.0\exercicioLista1.sourcelink.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioLista1\exercicioLista1\bin\Debug\net8.0\exercicioLista1.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioLista1\exercicioLista1\bin\Debug\net8.0\exercicioLista1.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioLista1\exercicioLista1\bin\Debug\net8.0\exercicioLista1.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioLista1\exercicioLista1\bin\Debug\net8.0\exercicioLista1.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioLista1\exercicioLista1\bin\Debug\net8.0\exercicioLista1.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioLista1\exercicioLista1\obj\Debug\net8.0\exercicioLista1.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioLista1\exercicioLista1\obj\Debug\net8.0\refint\exercicioLista1.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioLista1\exercicioLista1\obj\Debug\net8.0\exercicioLista1.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioLista1\exercicioLista1\obj\Debug\net8.0\exercicioLista1.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioLista1\exercicioLista1\obj\Debug\net8.0\ref\exercicioLista1.dll
