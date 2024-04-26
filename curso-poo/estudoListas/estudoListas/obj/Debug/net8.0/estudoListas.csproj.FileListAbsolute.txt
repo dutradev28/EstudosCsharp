@@ -1,0 +1,15 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoListas\estudoListas\bin\Debug\net8.0\estudoListas.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoListas\estudoListas\bin\Debug\net8.0\estudoListas.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoListas\estudoListas\bin\Debug\net8.0\estudoListas.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoListas\estudoListas\bin\Debug\net8.0\estudoListas.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoListas\estudoListas\bin\Debug\net8.0\estudoListas.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoListas\estudoListas\obj\Debug\net8.0\estudoListas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoListas\estudoListas\obj\Debug\net8.0\estudoListas.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoListas\estudoListas\obj\Debug\net8.0\estudoListas.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoListas\estudoListas\obj\Debug\net8.0\estudoListas.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoListas\estudoListas\obj\Debug\net8.0\estudoListas.sourcelink.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoListas\estudoListas\obj\Debug\net8.0\estudoListas.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoListas\estudoListas\obj\Debug\net8.0\refint\estudoListas.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoListas\estudoListas\obj\Debug\net8.0\estudoListas.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoListas\estudoListas\obj\Debug\net8.0\estudoListas.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoListas\estudoListas\obj\Debug\net8.0\ref\estudoListas.dll
