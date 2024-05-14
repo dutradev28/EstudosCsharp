@@ -1,0 +1,15 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enum1\enum1\bin\Debug\net8.0\enum1.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enum1\enum1\bin\Debug\net8.0\enum1.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enum1\enum1\bin\Debug\net8.0\enum1.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enum1\enum1\bin\Debug\net8.0\enum1.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enum1\enum1\bin\Debug\net8.0\enum1.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enum1\enum1\obj\Debug\net8.0\enum1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enum1\enum1\obj\Debug\net8.0\enum1.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enum1\enum1\obj\Debug\net8.0\enum1.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enum1\enum1\obj\Debug\net8.0\enum1.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enum1\enum1\obj\Debug\net8.0\enum1.sourcelink.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enum1\enum1\obj\Debug\net8.0\enum1.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enum1\enum1\obj\Debug\net8.0\refint\enum1.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enum1\enum1\obj\Debug\net8.0\enum1.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enum1\enum1\obj\Debug\net8.0\enum1.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enum1\enum1\obj\Debug\net8.0\ref\enum1.dll
