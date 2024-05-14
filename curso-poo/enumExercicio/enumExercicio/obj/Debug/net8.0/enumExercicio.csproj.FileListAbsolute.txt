@@ -1,0 +1,15 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enumExercicio\enumExercicio\bin\Debug\net8.0\enumExercicio.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enumExercicio\enumExercicio\bin\Debug\net8.0\enumExercicio.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enumExercicio\enumExercicio\bin\Debug\net8.0\enumExercicio.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enumExercicio\enumExercicio\bin\Debug\net8.0\enumExercicio.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enumExercicio\enumExercicio\bin\Debug\net8.0\enumExercicio.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enumExercicio\enumExercicio\obj\Debug\net8.0\enumExercicio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enumExercicio\enumExercicio\obj\Debug\net8.0\enumExercicio.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enumExercicio\enumExercicio\obj\Debug\net8.0\enumExercicio.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enumExercicio\enumExercicio\obj\Debug\net8.0\enumExercicio.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enumExercicio\enumExercicio\obj\Debug\net8.0\enumExercicio.sourcelink.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enumExercicio\enumExercicio\obj\Debug\net8.0\enumExercicio.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enumExercicio\enumExercicio\obj\Debug\net8.0\refint\enumExercicio.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enumExercicio\enumExercicio\obj\Debug\net8.0\enumExercicio.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enumExercicio\enumExercicio\obj\Debug\net8.0\enumExercicio.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\enumExercicio\enumExercicio\obj\Debug\net8.0\ref\enumExercicio.dll
