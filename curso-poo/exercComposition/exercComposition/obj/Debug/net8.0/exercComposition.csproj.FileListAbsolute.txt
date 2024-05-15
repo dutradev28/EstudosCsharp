@@ -1,0 +1,15 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercComposition\exercComposition\obj\Debug\net8.0\exercComposition.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercComposition\exercComposition\obj\Debug\net8.0\exercComposition.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercComposition\exercComposition\obj\Debug\net8.0\exercComposition.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercComposition\exercComposition\obj\Debug\net8.0\exercComposition.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercComposition\exercComposition\obj\Debug\net8.0\exercComposition.sourcelink.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercComposition\exercComposition\bin\Debug\net8.0\exercComposition.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercComposition\exercComposition\bin\Debug\net8.0\exercComposition.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercComposition\exercComposition\bin\Debug\net8.0\exercComposition.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercComposition\exercComposition\bin\Debug\net8.0\exercComposition.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercComposition\exercComposition\bin\Debug\net8.0\exercComposition.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercComposition\exercComposition\obj\Debug\net8.0\exercComposition.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercComposition\exercComposition\obj\Debug\net8.0\refint\exercComposition.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercComposition\exercComposition\obj\Debug\net8.0\exercComposition.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercComposition\exercComposition\obj\Debug\net8.0\exercComposition.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercComposition\exercComposition\obj\Debug\net8.0\ref\exercComposition.dll
