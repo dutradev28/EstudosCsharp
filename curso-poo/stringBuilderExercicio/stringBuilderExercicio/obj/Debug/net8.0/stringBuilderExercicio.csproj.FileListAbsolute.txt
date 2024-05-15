@@ -1,0 +1,15 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\stringBuilderExercicio\stringBuilderExercicio\obj\Debug\net8.0\stringBuilderExercicio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\stringBuilderExercicio\stringBuilderExercicio\obj\Debug\net8.0\stringBuilderExercicio.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\stringBuilderExercicio\stringBuilderExercicio\obj\Debug\net8.0\stringBuilderExercicio.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\stringBuilderExercicio\stringBuilderExercicio\obj\Debug\net8.0\stringBuilderExercicio.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\stringBuilderExercicio\stringBuilderExercicio\obj\Debug\net8.0\stringBuilderExercicio.sourcelink.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\stringBuilderExercicio\stringBuilderExercicio\bin\Debug\net8.0\stringBuilderExercicio.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\stringBuilderExercicio\stringBuilderExercicio\bin\Debug\net8.0\stringBuilderExercicio.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\stringBuilderExercicio\stringBuilderExercicio\bin\Debug\net8.0\stringBuilderExercicio.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\stringBuilderExercicio\stringBuilderExercicio\bin\Debug\net8.0\stringBuilderExercicio.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\stringBuilderExercicio\stringBuilderExercicio\bin\Debug\net8.0\stringBuilderExercicio.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\stringBuilderExercicio\stringBuilderExercicio\obj\Debug\net8.0\stringBuilderExercicio.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\stringBuilderExercicio\stringBuilderExercicio\obj\Debug\net8.0\refint\stringBuilderExercicio.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\stringBuilderExercicio\stringBuilderExercicio\obj\Debug\net8.0\stringBuilderExercicio.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\stringBuilderExercicio\stringBuilderExercicio\obj\Debug\net8.0\stringBuilderExercicio.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\stringBuilderExercicio\stringBuilderExercicio\obj\Debug\net8.0\ref\stringBuilderExercicio.dll

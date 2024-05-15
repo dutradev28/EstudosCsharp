@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\stringBuilderExercicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDC6C6C-B86A-47E8-8E12-B80D64A0BD68}|stringBuilderExercicio\\stringBuilderExercicio.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\stringbuilderexercicio\\stringbuilderexercicio\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDC6C6C-B86A-47E8-8E12-B80D64A0BD68}|stringBuilderExercicio\\stringBuilderExercicio.csproj|solutionrelative:stringbuilderexercicio\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDC6C6C-B86A-47E8-8E12-B80D64A0BD68}|stringBuilderExercicio\\stringBuilderExercicio.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\stringbuilderexercicio\\stringbuilderexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDC6C6C-B86A-47E8-8E12-B80D64A0BD68}|stringBuilderExercicio\\stringBuilderExercicio.csproj|solutionrelative:stringbuilderexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDC6C6C-B86A-47E8-8E12-B80D64A0BD68}|stringBuilderExercicio\\stringBuilderExercicio.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\stringbuilderexercicio\\stringbuilderexercicio\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDC6C6C-B86A-47E8-8E12-B80D64A0BD68}|stringBuilderExercicio\\stringBuilderExercicio.csproj|solutionrelative:stringbuilderexercicio\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Post.cs",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\stringBuilderExercicio\\stringBuilderExercicio\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "stringBuilderExercicio\\Entities\\Post.cs",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\stringBuilderExercicio\\stringBuilderExercicio\\Entities\\Post.cs",
+              "RelativeToolTip": "stringBuilderExercicio\\Entities\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:09:21.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\stringBuilderExercicio\\stringBuilderExercicio\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "stringBuilderExercicio\\Entities\\Comment.cs",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\stringBuilderExercicio\\stringBuilderExercicio\\Entities\\Comment.cs",
+              "RelativeToolTip": "stringBuilderExercicio\\Entities\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:08:02.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\stringBuilderExercicio\\stringBuilderExercicio\\Program.cs",
+              "RelativeDocumentMoniker": "stringBuilderExercicio\\Program.cs",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\stringBuilderExercicio\\stringBuilderExercicio\\Program.cs",
+              "RelativeToolTip": "stringBuilderExercicio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:06:47.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
