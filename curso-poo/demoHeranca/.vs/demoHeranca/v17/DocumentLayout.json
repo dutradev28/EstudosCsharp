@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{5D30E416-59BD-47D2-AD52-151DC517E9E8}|demoHeranca\\demoHeranca.csproj|solutionrelative:demoheranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D30E416-59BD-47D2-AD52-151DC517E9E8}|demoHeranca\\demoHeranca.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\demoheranca\\demoheranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D30E416-59BD-47D2-AD52-151DC517E9E8}|demoHeranca\\demoHeranca.csproj|solutionrelative:demoheranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D30E416-59BD-47D2-AD52-151DC517E9E8}|demoHeranca\\demoHeranca.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\demoheranca\\demoheranca\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D30E416-59BD-47D2-AD52-151DC517E9E8}|demoHeranca\\demoHeranca.csproj|solutionrelative:demoheranca\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D30E416-59BD-47D2-AD52-151DC517E9E8}|demoHeranca\\demoHeranca.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\demoheranca\\demoheranca\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D30E416-59BD-47D2-AD52-151DC517E9E8}|demoHeranca\\demoHeranca.csproj|solutionrelative:demoheranca\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D30E416-59BD-47D2-AD52-151DC517E9E8}|demoHeranca\\demoHeranca.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\demoheranca\\demoheranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D30E416-59BD-47D2-AD52-151DC517E9E8}|demoHeranca\\demoHeranca.csproj|solutionrelative:demoheranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\demoHeranca\\demoHeranca\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "demoHeranca\\Entities\\SavingsAccount.cs",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\demoHeranca\\demoHeranca\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "demoHeranca\\Entities\\SavingsAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:36:30.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Account.cs",
               "DocumentMoniker": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\demoHeranca\\demoHeranca\\Entities\\Account.cs",
               "RelativeDocumentMoniker": "demoHeranca\\Entities\\Account.cs",
@@ -51,8 +68,7 @@
               "RelativeToolTip": "demoHeranca\\Entities\\Account.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T13:51:44.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T13:51:44.167Z"
             },
             {
               "$type": "Document",
@@ -62,7 +78,7 @@
               "RelativeDocumentMoniker": "demoHeranca\\Program.cs",
               "ToolTip": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\demoHeranca\\demoHeranca\\Program.cs",
               "RelativeToolTip": "demoHeranca\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwCMAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T13:50:57.785Z",
               "EditorCaption": ""
