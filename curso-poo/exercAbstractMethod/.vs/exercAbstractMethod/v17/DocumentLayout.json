@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\exercAbstractMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA79195-B091-42BB-BA14-9BC9D7477758}|exercAbstractMethod\\exercAbstractMethod.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\exercabstractmethod\\exercabstractmethod\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA79195-B091-42BB-BA14-9BC9D7477758}|exercAbstractMethod\\exercAbstractMethod.csproj|solutionrelative:exercabstractmethod\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA79195-B091-42BB-BA14-9BC9D7477758}|exercAbstractMethod\\exercAbstractMethod.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\exercabstractmethod\\exercabstractmethod\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA79195-B091-42BB-BA14-9BC9D7477758}|exercAbstractMethod\\exercAbstractMethod.csproj|solutionrelative:exercabstractmethod\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA79195-B091-42BB-BA14-9BC9D7477758}|exercAbstractMethod\\exercAbstractMethod.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\exercabstractmethod\\exercabstractmethod\\entities\\taxpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA79195-B091-42BB-BA14-9BC9D7477758}|exercAbstractMethod\\exercAbstractMethod.csproj|solutionrelative:exercabstractmethod\\entities\\taxpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA79195-B091-42BB-BA14-9BC9D7477758}|exercAbstractMethod\\exercAbstractMethod.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\exercabstractmethod\\exercabstractmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA79195-B091-42BB-BA14-9BC9D7477758}|exercAbstractMethod\\exercAbstractMethod.csproj|solutionrelative:exercabstractmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaxPayer.cs",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\exercAbstractMethod\\exercAbstractMethod\\Entities\\TaxPayer.cs",
+              "RelativeDocumentMoniker": "exercAbstractMethod\\Entities\\TaxPayer.cs",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\exercAbstractMethod\\exercAbstractMethod\\Entities\\TaxPayer.cs",
+              "RelativeToolTip": "exercAbstractMethod\\Entities\\TaxPayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:48:33.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Company.cs",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\exercAbstractMethod\\exercAbstractMethod\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "exercAbstractMethod\\Entities\\Company.cs",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\exercAbstractMethod\\exercAbstractMethod\\Entities\\Company.cs",
+              "RelativeToolTip": "exercAbstractMethod\\Entities\\Company.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:48:20.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Individual.cs",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\exercAbstractMethod\\exercAbstractMethod\\Entities\\Individual.cs",
+              "RelativeDocumentMoniker": "exercAbstractMethod\\Entities\\Individual.cs",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\exercAbstractMethod\\exercAbstractMethod\\Entities\\Individual.cs",
+              "RelativeToolTip": "exercAbstractMethod\\Entities\\Individual.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:48:10.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\exercAbstractMethod\\exercAbstractMethod\\Program.cs",
+              "RelativeDocumentMoniker": "exercAbstractMethod\\Program.cs",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\exercAbstractMethod\\exercAbstractMethod\\Program.cs",
+              "RelativeToolTip": "exercAbstractMethod\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:27:02.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

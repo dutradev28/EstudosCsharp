@@ -1,0 +1,15 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercAbstractMethod\exercAbstractMethod\bin\Debug\net8.0\exercAbstractMethod.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercAbstractMethod\exercAbstractMethod\bin\Debug\net8.0\exercAbstractMethod.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercAbstractMethod\exercAbstractMethod\bin\Debug\net8.0\exercAbstractMethod.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercAbstractMethod\exercAbstractMethod\bin\Debug\net8.0\exercAbstractMethod.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercAbstractMethod\exercAbstractMethod\bin\Debug\net8.0\exercAbstractMethod.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercAbstractMethod\exercAbstractMethod\obj\Debug\net8.0\exercAbstractMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercAbstractMethod\exercAbstractMethod\obj\Debug\net8.0\exercAbstractMethod.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercAbstractMethod\exercAbstractMethod\obj\Debug\net8.0\exercAbstractMethod.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercAbstractMethod\exercAbstractMethod\obj\Debug\net8.0\exercAbstractMethod.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercAbstractMethod\exercAbstractMethod\obj\Debug\net8.0\exercAbstractMethod.sourcelink.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercAbstractMethod\exercAbstractMethod\obj\Debug\net8.0\exercAbstractMethod.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercAbstractMethod\exercAbstractMethod\obj\Debug\net8.0\refint\exercAbstractMethod.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercAbstractMethod\exercAbstractMethod\obj\Debug\net8.0\exercAbstractMethod.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercAbstractMethod\exercAbstractMethod\obj\Debug\net8.0\exercAbstractMethod.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercAbstractMethod\exercAbstractMethod\obj\Debug\net8.0\ref\exercAbstractMethod.dll
