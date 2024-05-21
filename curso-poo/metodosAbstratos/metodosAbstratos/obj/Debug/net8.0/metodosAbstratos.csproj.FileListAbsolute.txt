@@ -1,0 +1,15 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\metodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\metodosAbstratos.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\metodosAbstratos.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\metodosAbstratos.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\metodosAbstratos.sourcelink.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\metodosAbstratos\metodosAbstratos\bin\Debug\net8.0\metodosAbstratos.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\metodosAbstratos\metodosAbstratos\bin\Debug\net8.0\metodosAbstratos.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\metodosAbstratos\metodosAbstratos\bin\Debug\net8.0\metodosAbstratos.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\metodosAbstratos\metodosAbstratos\bin\Debug\net8.0\metodosAbstratos.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\metodosAbstratos\metodosAbstratos\bin\Debug\net8.0\metodosAbstratos.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\metodosAbstratos.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\refint\metodosAbstratos.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\metodosAbstratos.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\metodosAbstratos.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\ref\metodosAbstratos.dll

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\metodosAbstratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88C69E6D-8FDE-43C4-86F9-D45F67D8369A}|metodosAbstratos\\metodosAbstratos.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\metodosabstratos\\metodosabstratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C69E6D-8FDE-43C4-86F9-D45F67D8369A}|metodosAbstratos\\metodosAbstratos.csproj|solutionrelative:metodosabstratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C69E6D-8FDE-43C4-86F9-D45F67D8369A}|metodosAbstratos\\metodosAbstratos.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\metodosabstratos\\metodosabstratos\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C69E6D-8FDE-43C4-86F9-D45F67D8369A}|metodosAbstratos\\metodosAbstratos.csproj|solutionrelative:metodosabstratos\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C69E6D-8FDE-43C4-86F9-D45F67D8369A}|metodosAbstratos\\metodosAbstratos.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\metodosabstratos\\metodosabstratos\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C69E6D-8FDE-43C4-86F9-D45F67D8369A}|metodosAbstratos\\metodosAbstratos.csproj|solutionrelative:metodosabstratos\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C69E6D-8FDE-43C4-86F9-D45F67D8369A}|metodosAbstratos\\metodosAbstratos.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\metodosabstratos\\metodosabstratos\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C69E6D-8FDE-43C4-86F9-D45F67D8369A}|metodosAbstratos\\metodosAbstratos.csproj|solutionrelative:metodosabstratos\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C69E6D-8FDE-43C4-86F9-D45F67D8369A}|metodosAbstratos\\metodosAbstratos.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\metodosabstratos\\metodosabstratos\\entities\\enum\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C69E6D-8FDE-43C4-86F9-D45F67D8369A}|metodosAbstratos\\metodosAbstratos.csproj|solutionrelative:metodosabstratos\\entities\\enum\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\metodosAbstratos\\metodosAbstratos\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "metodosAbstratos\\Entities\\Circle.cs",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\metodosAbstratos\\metodosAbstratos\\Entities\\Circle.cs",
+              "RelativeToolTip": "metodosAbstratos\\Entities\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:41:11.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\metodosAbstratos\\metodosAbstratos\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "metodosAbstratos\\Entities\\Rectangle.cs",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\metodosAbstratos\\metodosAbstratos\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "metodosAbstratos\\Entities\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:35:37.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Color.cs",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\metodosAbstratos\\metodosAbstratos\\Entities\\Enum\\Color.cs",
+              "RelativeDocumentMoniker": "metodosAbstratos\\Entities\\Enum\\Color.cs",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\metodosAbstratos\\metodosAbstratos\\Entities\\Enum\\Color.cs",
+              "RelativeToolTip": "metodosAbstratos\\Entities\\Enum\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:31:45.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\metodosAbstratos\\metodosAbstratos\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "metodosAbstratos\\Entities\\Shape.cs",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\metodosAbstratos\\metodosAbstratos\\Entities\\Shape.cs",
+              "RelativeToolTip": "metodosAbstratos\\Entities\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:31:13.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\metodosAbstratos\\metodosAbstratos\\Program.cs",
+              "RelativeDocumentMoniker": "metodosAbstratos\\Program.cs",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\metodosAbstratos\\metodosAbstratos\\Program.cs",
+              "RelativeToolTip": "metodosAbstratos\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:29:59.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
