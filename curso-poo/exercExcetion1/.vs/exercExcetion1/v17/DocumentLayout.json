@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\exercExcetion1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21334D90-EF09-49F5-AE25-E3173E429F21}|exercExcetion1\\exercExcetion1.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\exercexcetion1\\exercexcetion1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21334D90-EF09-49F5-AE25-E3173E429F21}|exercExcetion1\\exercExcetion1.csproj|solutionrelative:exercexcetion1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21334D90-EF09-49F5-AE25-E3173E429F21}|exercExcetion1\\exercException1.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\exercexcetion1\\exercexcetion1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21334D90-EF09-49F5-AE25-E3173E429F21}|exercExcetion1\\exercException1.csproj|solutionrelative:exercexcetion1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21334D90-EF09-49F5-AE25-E3173E429F21}|exercExcetion1\\exercException1.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\exercexcetion1\\exercexcetion1\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21334D90-EF09-49F5-AE25-E3173E429F21}|exercExcetion1\\exercException1.csproj|solutionrelative:exercexcetion1\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21334D90-EF09-49F5-AE25-E3173E429F21}|exercExcetion1\\exercException1.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\exercexcetion1\\exercexcetion1\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21334D90-EF09-49F5-AE25-E3173E429F21}|exercExcetion1\\exercException1.csproj|solutionrelative:exercexcetion1\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\exercExcetion1\\exercExcetion1\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "exercExcetion1\\Entities\\Exceptions\\DomainException.cs",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\exercExcetion1\\exercExcetion1\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "exercExcetion1\\Entities\\Exceptions\\DomainException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:15:34.352Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,7 +49,7 @@
               "RelativeDocumentMoniker": "exercExcetion1\\Entities\\Reservation.cs",
               "ToolTip": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\exercExcetion1\\exercExcetion1\\Entities\\Reservation.cs",
               "RelativeToolTip": "exercExcetion1\\Entities\\Reservation.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCMAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T19:24:13.733Z",
               "EditorCaption": ""
@@ -45,7 +62,7 @@
               "RelativeDocumentMoniker": "exercExcetion1\\Program.cs",
               "ToolTip": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\exercExcetion1\\exercExcetion1\\Program.cs",
               "RelativeToolTip": "exercExcetion1\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCsAAABFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T19:22:38.798Z",
               "EditorCaption": ""

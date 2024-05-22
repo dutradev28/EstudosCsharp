@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exercException1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdbf7970c21cae8c0a9fd068866d60192114ecb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd87696f40d2da63dde58bc571597064539da9d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("exercException1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exercException1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
