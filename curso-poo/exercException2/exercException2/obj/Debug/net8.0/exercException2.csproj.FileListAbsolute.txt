@@ -1,0 +1,15 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercException2\exercException2\bin\Debug\net8.0\exercException2.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercException2\exercException2\bin\Debug\net8.0\exercException2.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercException2\exercException2\bin\Debug\net8.0\exercException2.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercException2\exercException2\bin\Debug\net8.0\exercException2.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercException2\exercException2\bin\Debug\net8.0\exercException2.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercException2\exercException2\obj\Debug\net8.0\exercException2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercException2\exercException2\obj\Debug\net8.0\exercException2.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercException2\exercException2\obj\Debug\net8.0\exercException2.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercException2\exercException2\obj\Debug\net8.0\exercException2.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercException2\exercException2\obj\Debug\net8.0\exercException2.sourcelink.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercException2\exercException2\obj\Debug\net8.0\exercException2.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercException2\exercException2\obj\Debug\net8.0\refint\exercException2.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercException2\exercException2\obj\Debug\net8.0\exercException2.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercException2\exercException2\obj\Debug\net8.0\exercException2.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercException2\exercException2\obj\Debug\net8.0\ref\exercException2.dll
