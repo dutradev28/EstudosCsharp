@@ -1,0 +1,15 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudosPath\estudosPath\bin\Debug\net8.0\estudosPath.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudosPath\estudosPath\bin\Debug\net8.0\estudosPath.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudosPath\estudosPath\bin\Debug\net8.0\estudosPath.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudosPath\estudosPath\bin\Debug\net8.0\estudosPath.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudosPath\estudosPath\bin\Debug\net8.0\estudosPath.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudosPath\estudosPath\obj\Debug\net8.0\estudosPath.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudosPath\estudosPath\obj\Debug\net8.0\estudosPath.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudosPath\estudosPath\obj\Debug\net8.0\estudosPath.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudosPath\estudosPath\obj\Debug\net8.0\estudosPath.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudosPath\estudosPath\obj\Debug\net8.0\estudosPath.sourcelink.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudosPath\estudosPath\obj\Debug\net8.0\estudosPath.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudosPath\estudosPath\obj\Debug\net8.0\refint\estudosPath.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudosPath\estudosPath\obj\Debug\net8.0\estudosPath.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudosPath\estudosPath\obj\Debug\net8.0\estudosPath.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudosPath\estudosPath\obj\Debug\net8.0\ref\estudosPath.dll
