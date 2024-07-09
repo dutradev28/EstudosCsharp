@@ -1,0 +1,15 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioManipArq\exercicioManipArq\bin\Debug\net8.0\exercicioManipArq.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioManipArq\exercicioManipArq\bin\Debug\net8.0\exercicioManipArq.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioManipArq\exercicioManipArq\bin\Debug\net8.0\exercicioManipArq.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioManipArq\exercicioManipArq\bin\Debug\net8.0\exercicioManipArq.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioManipArq\exercicioManipArq\bin\Debug\net8.0\exercicioManipArq.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioManipArq\exercicioManipArq\obj\Debug\net8.0\exercicioManipArq.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioManipArq\exercicioManipArq\obj\Debug\net8.0\exercicioManipArq.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioManipArq\exercicioManipArq\obj\Debug\net8.0\exercicioManipArq.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioManipArq\exercicioManipArq\obj\Debug\net8.0\exercicioManipArq.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioManipArq\exercicioManipArq\obj\Debug\net8.0\exercicioManipArq.sourcelink.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioManipArq\exercicioManipArq\obj\Debug\net8.0\exercicioManipArq.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioManipArq\exercicioManipArq\obj\Debug\net8.0\refint\exercicioManipArq.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioManipArq\exercicioManipArq\obj\Debug\net8.0\exercicioManipArq.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioManipArq\exercicioManipArq\obj\Debug\net8.0\exercicioManipArq.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\exercicioManipArq\exercicioManipArq\obj\Debug\net8.0\ref\exercicioManipArq.dll
