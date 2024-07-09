@@ -1,0 +1,15 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoDirectory\estudoDirectory\bin\Debug\net8.0\estudoDirectory.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoDirectory\estudoDirectory\bin\Debug\net8.0\estudoDirectory.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoDirectory\estudoDirectory\bin\Debug\net8.0\estudoDirectory.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoDirectory\estudoDirectory\bin\Debug\net8.0\estudoDirectory.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoDirectory\estudoDirectory\bin\Debug\net8.0\estudoDirectory.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoDirectory\estudoDirectory\obj\Debug\net8.0\estudoDirectory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoDirectory\estudoDirectory\obj\Debug\net8.0\estudoDirectory.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoDirectory\estudoDirectory\obj\Debug\net8.0\estudoDirectory.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoDirectory\estudoDirectory\obj\Debug\net8.0\estudoDirectory.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoDirectory\estudoDirectory\obj\Debug\net8.0\estudoDirectory.sourcelink.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoDirectory\estudoDirectory\obj\Debug\net8.0\estudoDirectory.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoDirectory\estudoDirectory\obj\Debug\net8.0\refint\estudoDirectory.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoDirectory\estudoDirectory\obj\Debug\net8.0\estudoDirectory.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoDirectory\estudoDirectory\obj\Debug\net8.0\estudoDirectory.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoDirectory\estudoDirectory\obj\Debug\net8.0\ref\estudoDirectory.dll
