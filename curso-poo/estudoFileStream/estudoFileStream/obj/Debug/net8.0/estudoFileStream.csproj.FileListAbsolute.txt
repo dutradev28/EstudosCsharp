@@ -1,0 +1,15 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileStream\estudoFileStream\bin\Debug\net8.0\estudoFileStream.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileStream\estudoFileStream\bin\Debug\net8.0\estudoFileStream.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileStream\estudoFileStream\bin\Debug\net8.0\estudoFileStream.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileStream\estudoFileStream\bin\Debug\net8.0\estudoFileStream.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileStream\estudoFileStream\bin\Debug\net8.0\estudoFileStream.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileStream\estudoFileStream\obj\Debug\net8.0\estudoFileStream.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileStream\estudoFileStream\obj\Debug\net8.0\estudoFileStream.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileStream\estudoFileStream\obj\Debug\net8.0\estudoFileStream.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileStream\estudoFileStream\obj\Debug\net8.0\estudoFileStream.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileStream\estudoFileStream\obj\Debug\net8.0\estudoFileStream.sourcelink.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileStream\estudoFileStream\obj\Debug\net8.0\estudoFileStream.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileStream\estudoFileStream\obj\Debug\net8.0\refint\estudoFileStream.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileStream\estudoFileStream\obj\Debug\net8.0\estudoFileStream.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileStream\estudoFileStream\obj\Debug\net8.0\estudoFileStream.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileStream\estudoFileStream\obj\Debug\net8.0\ref\estudoFileStream.dll

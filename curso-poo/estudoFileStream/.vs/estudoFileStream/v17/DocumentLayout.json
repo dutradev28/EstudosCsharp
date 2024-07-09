@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\estudoFileStream\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB1BAA7-B377-42AF-A80F-81277A09EAE8}|estudoFileStream\\estudoFileStream.csproj|e:\\programa\u00E7\u00E3o new\\estudoscsharp\\estudoscsharp\\curso-poo\\estudofilestream\\estudofilestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB1BAA7-B377-42AF-A80F-81277A09EAE8}|estudoFileStream\\estudoFileStream.csproj|solutionrelative:estudofilestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\estudoFileStream\\estudoFileStream\\Program.cs",
+              "RelativeDocumentMoniker": "estudoFileStream\\Program.cs",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o New\\EstudosCsharp\\EstudosCsharp\\curso-poo\\estudoFileStream\\estudoFileStream\\Program.cs",
+              "RelativeToolTip": "estudoFileStream\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:55:32.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
