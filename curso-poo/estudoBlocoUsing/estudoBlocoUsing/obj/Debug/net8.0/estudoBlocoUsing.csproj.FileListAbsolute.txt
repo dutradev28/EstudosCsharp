@@ -1,0 +1,15 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoBlocoUsing\estudoBlocoUsing\bin\Debug\net8.0\estudoBlocoUsing.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoBlocoUsing\estudoBlocoUsing\bin\Debug\net8.0\estudoBlocoUsing.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoBlocoUsing\estudoBlocoUsing\bin\Debug\net8.0\estudoBlocoUsing.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoBlocoUsing\estudoBlocoUsing\bin\Debug\net8.0\estudoBlocoUsing.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoBlocoUsing\estudoBlocoUsing\bin\Debug\net8.0\estudoBlocoUsing.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoBlocoUsing\estudoBlocoUsing\obj\Debug\net8.0\estudoBlocoUsing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoBlocoUsing\estudoBlocoUsing\obj\Debug\net8.0\estudoBlocoUsing.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoBlocoUsing\estudoBlocoUsing\obj\Debug\net8.0\estudoBlocoUsing.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoBlocoUsing\estudoBlocoUsing\obj\Debug\net8.0\estudoBlocoUsing.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoBlocoUsing\estudoBlocoUsing\obj\Debug\net8.0\estudoBlocoUsing.sourcelink.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoBlocoUsing\estudoBlocoUsing\obj\Debug\net8.0\estudoBlocoUsing.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoBlocoUsing\estudoBlocoUsing\obj\Debug\net8.0\refint\estudoBlocoUsing.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoBlocoUsing\estudoBlocoUsing\obj\Debug\net8.0\estudoBlocoUsing.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoBlocoUsing\estudoBlocoUsing\obj\Debug\net8.0\estudoBlocoUsing.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoBlocoUsing\estudoBlocoUsing\obj\Debug\net8.0\ref\estudoBlocoUsing.dll
