@@ -1,0 +1,15 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileInfo\estudoFileInfo\bin\Debug\net8.0\estudoFileInfo.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileInfo\estudoFileInfo\bin\Debug\net8.0\estudoFileInfo.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileInfo\estudoFileInfo\bin\Debug\net8.0\estudoFileInfo.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileInfo\estudoFileInfo\bin\Debug\net8.0\estudoFileInfo.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileInfo\estudoFileInfo\bin\Debug\net8.0\estudoFileInfo.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileInfo\estudoFileInfo\obj\Debug\net8.0\estudoFileInfo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileInfo\estudoFileInfo\obj\Debug\net8.0\estudoFileInfo.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileInfo\estudoFileInfo\obj\Debug\net8.0\estudoFileInfo.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileInfo\estudoFileInfo\obj\Debug\net8.0\estudoFileInfo.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileInfo\estudoFileInfo\obj\Debug\net8.0\estudoFileInfo.sourcelink.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileInfo\estudoFileInfo\obj\Debug\net8.0\estudoFileInfo.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileInfo\estudoFileInfo\obj\Debug\net8.0\refint\estudoFileInfo.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileInfo\estudoFileInfo\obj\Debug\net8.0\estudoFileInfo.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileInfo\estudoFileInfo\obj\Debug\net8.0\estudoFileInfo.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoFileInfo\estudoFileInfo\obj\Debug\net8.0\ref\estudoFileInfo.dll
