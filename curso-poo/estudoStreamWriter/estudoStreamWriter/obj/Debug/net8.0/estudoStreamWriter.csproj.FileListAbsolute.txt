@@ -1,0 +1,15 @@
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoStreamWriter\estudoStreamWriter\bin\Debug\net8.0\estudoStreamWriter.exe
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoStreamWriter\estudoStreamWriter\bin\Debug\net8.0\estudoStreamWriter.deps.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoStreamWriter\estudoStreamWriter\bin\Debug\net8.0\estudoStreamWriter.runtimeconfig.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoStreamWriter\estudoStreamWriter\bin\Debug\net8.0\estudoStreamWriter.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoStreamWriter\estudoStreamWriter\bin\Debug\net8.0\estudoStreamWriter.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoStreamWriter\estudoStreamWriter\obj\Debug\net8.0\estudoStreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoStreamWriter\estudoStreamWriter\obj\Debug\net8.0\estudoStreamWriter.AssemblyInfoInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoStreamWriter\estudoStreamWriter\obj\Debug\net8.0\estudoStreamWriter.AssemblyInfo.cs
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoStreamWriter\estudoStreamWriter\obj\Debug\net8.0\estudoStreamWriter.csproj.CoreCompileInputs.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoStreamWriter\estudoStreamWriter\obj\Debug\net8.0\estudoStreamWriter.sourcelink.json
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoStreamWriter\estudoStreamWriter\obj\Debug\net8.0\estudoStreamWriter.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoStreamWriter\estudoStreamWriter\obj\Debug\net8.0\refint\estudoStreamWriter.dll
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoStreamWriter\estudoStreamWriter\obj\Debug\net8.0\estudoStreamWriter.pdb
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoStreamWriter\estudoStreamWriter\obj\Debug\net8.0\estudoStreamWriter.genruntimeconfig.cache
+E:\Programação New\EstudosCsharp\EstudosCsharp\curso-poo\estudoStreamWriter\estudoStreamWriter\obj\Debug\net8.0\ref\estudoStreamWriter.dll
